@@ -1,0 +1,17 @@
+.\obj\tft.o: tft.c
+.\obj\tft.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\tft.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\obj\tft.o: TI_Board_IO.h
+.\obj\tft.o: TI_Lib.h
+.\obj\tft.o: main.h
+.\obj\tft.o: stm32f4xx.h
+.\obj\tft.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\obj\tft.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\tft.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\obj\tft.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\obj\tft.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\obj\tft.o: C:\Keil_v5\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\obj\tft.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\tft.o: tft.h
+.\obj\tft.o: stm32f4xx_gpio.h
+.\obj\tft.o: stm32f4xx_rcc.h

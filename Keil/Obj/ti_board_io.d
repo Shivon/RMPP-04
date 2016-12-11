@@ -1,0 +1,14 @@
+.\obj\ti_board_io.o: TI_Board_IO.c
+.\obj\ti_board_io.o: TI_Lib.h
+.\obj\ti_board_io.o: main.h
+.\obj\ti_board_io.o: stm32f4xx.h
+.\obj\ti_board_io.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\obj\ti_board_io.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\ti_board_io.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\obj\ti_board_io.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\obj\ti_board_io.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\obj\ti_board_io.o: C:\Keil_v5\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\obj\ti_board_io.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\ti_board_io.o: TI_Board_IO.h
+.\obj\ti_board_io.o: stm32f4xx_gpio.h
+.\obj\ti_board_io.o: stm32f4xx_rcc.h

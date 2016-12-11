@@ -1,0 +1,16 @@
+.\obj\usart.o: Usart.c
+.\obj\usart.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\usart.o: TI_Lib.h
+.\obj\usart.o: main.h
+.\obj\usart.o: stm32f4xx.h
+.\obj\usart.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\obj\usart.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\usart.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\obj\usart.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\obj\usart.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\obj\usart.o: C:\Keil_v5\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\obj\usart.o: usart.h
+.\obj\usart.o: misc.h
+.\obj\usart.o: stm32f4xx_gpio.h
+.\obj\usart.o: stm32f4xx_rcc.h
+.\obj\usart.o: stm32f4xx_usart.h

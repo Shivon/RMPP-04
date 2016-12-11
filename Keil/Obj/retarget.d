@@ -1,0 +1,12 @@
+.\obj\retarget.o: Retarget.c
+.\obj\retarget.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\retarget.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\rt_misc.h
+.\obj\retarget.o: TI_Lib.h
+.\obj\retarget.o: main.h
+.\obj\retarget.o: stm32f4xx.h
+.\obj\retarget.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\obj\retarget.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\retarget.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\obj\retarget.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\obj\retarget.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\obj\retarget.o: C:\Keil_v5\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h

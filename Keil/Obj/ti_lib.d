@@ -1,0 +1,12 @@
+.\obj\ti_lib.o: TI_Lib.c
+.\obj\ti_lib.o: main.h
+.\obj\ti_lib.o: stm32f4xx.h
+.\obj\ti_lib.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\obj\ti_lib.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\ti_lib.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\obj\ti_lib.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\obj\ti_lib.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\obj\ti_lib.o: C:\Keil_v5\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\obj\ti_lib.o: usart.h
+.\obj\ti_lib.o: TI_Board_IO.h
+.\obj\ti_lib.o: tft.h
